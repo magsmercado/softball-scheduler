@@ -3,7 +3,7 @@
 An R Shiny app for whoever runs the league next. It builds the season
 schedule around blackout dates, and separately tracks which numbered
 equipment bag (bases, etc.) goes where each week, so nobody shows up with
-two bags -- or none.
+two bags (or none).
 
 ## Running it
 
