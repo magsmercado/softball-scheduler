@@ -63,7 +63,7 @@ extra week to the season, etc.
 
 - **Byes go to blacked-out teams first.** For each calendar date, the app
   checks which teams have a team-specific blackout on that exact date and
-  gives them first claim on that week's bye slots A team's blackout
+  gives them first claim on that week's bye slots. A team's blackout
   date automatically becomes one of their bye weeks whenever there's room.
   If more teams are blacked out on a date than there are bye slots (e.g.
   three teams have a conflict but you only allow 2 byes/week), the extras
