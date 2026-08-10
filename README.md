@@ -17,31 +17,6 @@ two bags (or none).
    shiny::runApp("app.R")
    ```
 
-## Putting this on GitHub
-
-This folder is already laid out as a repo (`app.R`, `README.md`, `LICENSE`,
-`.gitignore`). From inside it:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: softball scheduler + bag tracker"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git push -u origin main
-```
-
-Create the empty repo on GitHub first (github.com -> New repository --
-don't initialize it with a README, since you already have one) and swap
-in its URL above. The `.gitignore` keeps R session junk (`.Rhistory`,
-`.Rproj.user/`) and `shinyapps.io` deploy metadata (`rsconnect/`) out of
-version control. The `LICENSE` is MIT -- permissive, lets anyone use or
-modify this freely; swap in a different license text if you'd rather.
-
-Want it live on the web instead of just on GitHub? The free tier of
-[shinyapps.io](https://www.shinyapps.io) can host this directly from
-RStudio (Publish button in the top-right of the app pane) without any
-extra config.
 
 ## Using it
 
