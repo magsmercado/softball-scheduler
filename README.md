@@ -14,7 +14,7 @@ two bags (or none).
    ```
 3. Open `app.R` in RStudio and click **Run App**, or from a terminal:
    ```r
-   shiny::runApp("app.R")
+   shiny::runApp("softball_scheduler.R")
    ```
 
 
