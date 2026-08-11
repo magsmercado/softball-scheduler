@@ -114,9 +114,5 @@ have already racked up combined,and puts the pairs with the fewest onto
 fields 9, 14, and 15 first. Every other matchup gets one of the four good 
 fields. Since a league of up to 6 teams (3 games/week) never needs more than 
 the 4 good fields, low fields only come into play once a league is big enough 
-to need them -- and from then on the app keeps steering low-field duty 
+to need them. from then on the app steers low-field duty 
 toward whoever's had the least of it.
-
-In a 20-week test season with 14 teams and 0 byes (7 games/week, so 3 of
-7 games are on a low field every week), each team ended up with 8-10
-low-field games out of 20 -- close to the theoretical fair share.
