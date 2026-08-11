@@ -10,7 +10,7 @@ two bags (or none).
 1. Install R (4.x) from https://www.r-project.org, or use RStudio.
 2. Install the three packages this app needs.
    ```r
-   install.packages(c("shiny", "DT", "openxlsx))
+   install.packages(c("shiny", "DT", "openxlsx"))
    ```
 3. Open `app.R` in RStudio and click **Run App**, or from a terminal:
    ```r
