@@ -38,8 +38,8 @@ Four tabs come back:
 - every week's matchups, which field each game is
   on, and which numbered bag the home team is carrying.
 - **Off-Day Bag Transfers**
-- the (hopefully short) list of "Team X hands
-  Bag N to Team Y before this week" instructions. Ideally this list is
+- the list of "Team X hands Bag N to Team Y before this week"
+- instructions. Ideally this list is
   short or empty most weeks.
 - **Bag Tracker (by bag #)**
 - each bag's full season itinerary, if you
