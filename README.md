@@ -8,7 +8,7 @@ two bags (or none).
 ## Running it
 
 1. Install R (4.x) from https://www.r-project.org, or use RStudio.
-2. Install the two packages this app needs, once:
+2. Install the two packages this app needs.
    ```r
    install.packages(c("shiny", "DT"))
    ```
